@@ -1,4 +1,4 @@
-package com.lotto.sampling.controller;
+package com.kubernetes.example.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

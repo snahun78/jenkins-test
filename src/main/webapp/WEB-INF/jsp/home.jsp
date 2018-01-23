@@ -2,4 +2,5 @@
 
 <body style="padding: 15px">
 Hi~ 
+This is Jenkins-Kubernetes Test
 </body>
